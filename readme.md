@@ -73,4 +73,4 @@ php artisan serve
 
 ### Observação
 
-```O nome da aplicação faz referência a Deusa da agricultura grega e foi escolido pela familiaridade com escopo da aplicação. Deméter é considerada a deusa da agricultura na Mitologia Grega, ela era quem nutria a terra . ```
+```O nome da aplicação faz referência a Deusa da agricultura grega e foi escolido pela familiaridade com escopo da aplicação. Deméter é considerada a deusa da agricultura na Mitologia Grega, ela era quem nutria a terra. ```

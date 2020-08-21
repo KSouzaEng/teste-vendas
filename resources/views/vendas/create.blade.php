@@ -102,7 +102,7 @@
 
                     <div class="form-group">
                     <label class="control-label col-lg-2" for="inputSuccess">Preço do Produto em Kg</label>
-                    <input class="form-control "type="text"   value="{{ $produto->preco }}"  style="width: 787px; margin-left:12px;"  id="preco" onblur="getId(this.value)" />
+                    <input class="form-control "type="text"   style="width: 787px; margin-left:12px;"  id="preco" onblur="getId(this.value)" />
                     </div>
 
                     <div class="form-group">
